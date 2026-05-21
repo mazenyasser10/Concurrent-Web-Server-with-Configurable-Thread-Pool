@@ -1,2 +1,0 @@
-# Concurrent-Web-Server-with-Configurable-Thread-Pool
-Developed a concurrent web server that handles multiple client requests using a configurable thread pool. The server allows users to set port number, no. of threads, and root directory, improving performance and resources. The project focuses on socket programming, multithreading, client-server communication, HTTP requests, and concurrency control.
